@@ -1,0 +1,8 @@
+iq.edu.almaaqal.attendance.app-pngs-0 D:\AlMaaqalAttendance\app\build\generated\res\pngs\debug
+iq.edu.almaaqal.attendance.app-updated_navigation_xml-1 D:\AlMaaqalAttendance\app\build\generated\updated_navigation_xml\debug
+iq.edu.almaaqal.attendance.app-packageDebugResources-2 D:\AlMaaqalAttendance\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+iq.edu.almaaqal.attendance.app-packageDebugResources-3 D:\AlMaaqalAttendance\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+iq.edu.almaaqal.attendance.app-debug-4 D:\AlMaaqalAttendance\app\build\intermediates\merged_res\debug\mergeDebugResources
+iq.edu.almaaqal.attendance.app-debug-5 D:\AlMaaqalAttendance\app\src\debug\res
+iq.edu.almaaqal.attendance.app-main-6 D:\AlMaaqalAttendance\app\src\main\res
+gradleHome-0 C:\Users\ahmed\.gradle
